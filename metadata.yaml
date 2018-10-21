@@ -1,5 +1,5 @@
 _repo: William-Ewart-Gladstone_3416
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -26,5 +26,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'DA'
 - !lcsh 'Gladstone, W. E. (William Ewart), 1809-1898'
+- GITenberg
 title: William Ewart Gladstone
 url: http://www.gutenberg.org/ebooks/3416
